@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MultiActivityTest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="tv01">add same char!</string>
+    <string name="btn01">Click me!</string>
+    <string name="btn02">2.Activity</string>
+    <string name="menu_one">Activity One</string>
+    <string name="menu_two">Activity Two</string>
+    <string name="btn2_1">Datenübergabe Variante 1</string>
+    <string name="btn2_2">Datenübergabe Variante 2</string>
+   
+</resources>
